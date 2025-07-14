@@ -57,7 +57,7 @@ def full_pipeline(youtube_url, text, lang):
 
 # Örnek çağırma
 full_pipeline(
-    youtube_url="https://www.youtube.com/watch?v=Ctc49JwnKdo",
-    text="Hello, this is a test for volume change, thank you.",
+    youtube_url="https://www.youtube.com/watch?v=M1O_MjMRkPg",
+    text="Hello, this is a test from a tedx talk. Thank you for listening.",
     lang="en"
 )
